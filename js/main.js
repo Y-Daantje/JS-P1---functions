@@ -25,3 +25,13 @@ function calculateSum(a, b) {
 }
 const claculator = calculateSum(3, 4);
 calculateSum(30000, 6079707);
+
+
+//opdr4
+function showArrayNumbers(e, t) {
+    console.log('your answer', e / t);
+    const is = e / t;
+
+    return is;
+}
+const result = showArrayNumbers(8, 2);
