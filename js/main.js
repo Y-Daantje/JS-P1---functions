@@ -40,7 +40,7 @@ const result = calculateDivision(3, 4);
 //opdr5
 function showArrayOfNumbers() {
     //variabel of nmr names with the arrays
-    const priemgetal = ['1', '2', '3', '4', '5'];
+    const priemgetal = ['2', '3', '5', '7', '11'];
     //for element make a variabel n value of 0 < to the var names
     for (let n = 0; n < priemgetal.length; n++) {
         //log the nmr value
@@ -65,7 +65,3 @@ showArrayOfBrands();
 
 
 //opdr7
-let computer = 7;
-let player = 5;
- let enterhogerlager = prompt('kies hoger of lager.....');
- 
